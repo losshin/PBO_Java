@@ -1,3 +1,3 @@
 # PBO_Java
 
-sekedar nugas
+sekadar nugas
